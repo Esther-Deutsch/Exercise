@@ -18,6 +18,9 @@ function App() {
           WE ARE THE BEST TEAM!!!!!
         </a>
         <p>Elish & Esther</p>
+        <p>wow!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          enjoy!!!!!!!!!!!!!!!!!!!!!!!!!!
+        </p>
       </header>
     </div>
   );
