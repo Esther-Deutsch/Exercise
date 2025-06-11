@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          WE ARE THE BEST TEAM!!!!!
         </a>
+        <p>Elish & Esther</p>
       </header>
     </div>
   );
